@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>a790c084fe3f9f9109286d300eb767cd.jpg</file>
+        <file>0dc4c97b66fc5b35aea9e6b2b425b144.jpg</file>
+        <file>myimage.png</file>
+        <file>zidan.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>77282532b52658c96fdc16ba437953ff.png</file>
+    </qresource>
+</RCC>
